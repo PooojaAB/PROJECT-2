@@ -1,0 +1,16 @@
+{
+  "name": "companydirectory",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "echo \"No build step needed, open with XAMPP",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^5.3.7"
+  }
+}
